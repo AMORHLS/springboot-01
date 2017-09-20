@@ -71,7 +71,7 @@ public class LoginController {
     }
 
     /**
-     * 注销
+     * 注销j
      */
     @RequestMapping(value = "/loginout", method = RequestMethod.GET)
     public String loginOut(HttpSession session) {
